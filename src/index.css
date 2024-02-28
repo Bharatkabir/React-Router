@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+#img{
+    height: 84px;
+    margin: 8px auto;
+}
